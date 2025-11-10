@@ -2,6 +2,8 @@
 
 Dette WordPress plugin er udviklet med henblik på vores vores gåtur kampagne event til Peter Larsen Kaffe.
 
+![Popup](popup.png)
+
 Pluginnet viser en popup på forsiden med en kaffekop, nogle planter og en CTA, der leder brugeren til kampagnesiden.
 
 ---
