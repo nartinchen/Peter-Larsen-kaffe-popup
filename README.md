@@ -34,7 +34,7 @@ I min popup har jeg nogle planter som er animeret med css til at bevæge sig ind
 `transform: translateX()`bestemmer hvor og hvor langt planterne skal bevæge sig horizontalt
 `opacity:` styrer gennemsigtigheden af billederne
 
-![CSS slide animation](slide_animation)
+![CSS slide animation](slide_animation.png)
 
 Derudover har jeg denne animation som gør at selve popuppen slider opad når man loader ind på siden.
 
